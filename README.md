@@ -12,9 +12,7 @@ Block Slider is a 2D grid-based puzzle game developed in Unity, where players st
 
 ## 📸 Screenshots
 
-![Gameplay 1](./Screenshots/gameplay1.png)  
-![Gameplay 2](./Screenshots/gameplay2.png)  
-![Gameplay 3](./Screenshots/gameplay3.png)  
+[Screenshots](https://github.com/Nimra123-bee/Gameplay_Screenshots)
 
 ---
 
